@@ -36,3 +36,4 @@ const fakeProducts = [
     price: 39.99
   }
 ];
+
